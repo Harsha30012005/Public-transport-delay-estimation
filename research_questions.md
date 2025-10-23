@@ -45,7 +45,4 @@ The following research questions guide the design, experimentation, and validati
 
 ---
 
-> ✍️ *Author: Harsha*  
-> *Duration: 12-week project plan (October 2025 – January 2026)*  
-> *Institution: [Your College/Department Name]*  
-> *Supervisor: [To be added]*  
+
